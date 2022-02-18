@@ -12,7 +12,7 @@ Em todas as aplicações, para inserir uma nova entrada que será testada,
 é necessário alterar o parâmetro da função que estará na útima linha do arquivo index.js.
 Ex: console.log(funcao(parametro));
 
-Obs.: As saídas são mostradas através do console do navegador.
+Obs.: As saídas das questões 2 e 3 são mostradas através do console do navegador.
 
 Para a solução dos desafios propostos, foram utilizadas as linguagens Javascript e HTML.
 
